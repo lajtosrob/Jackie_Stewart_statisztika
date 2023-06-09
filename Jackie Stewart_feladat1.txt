@@ -1,0 +1,79 @@
+ 
+
+ 
+
+KORLATOZOTT TERJESZTESU! | 1.sz. példany
+- T 5421305'D
+
+3. feladat Osszesen: 40 pont
+
+C# LINQ Programozás 
+Jackie Stewart statisztika®
+
+A következő feladatban Jackie Stewart 1964 és 1973 közötti statisztikáiról készitett
+szöveges állomanyból kell adatokat kinyernie.
+
+A megoldás során vegye figyelembe a következőket:
+o A képernydre irást igénylő részfeladatok eredményének megjelenitése elétt irja a
+képernyőre a feladat sorszamát (például: 3. feladat:)!
+o Az egyes feladatokban a kiírásokat a minia szerint készitse el!
+® Az ékezetmentes azonositók és kiírások is elfogadottak.
+
+e A program megirásakor az állományban lévő adatok helyes szerkezetét nem kell
+ellenőriznie, feltételezheti, hogy a rendelkezésre állo adatok a leirtaknak megfelelnek.
+
+e Megoldását úgy készitse el, hogy az azonos szerkezetű, de tetszőleges bemeneti adatok
+mellett is helyes eredményt adjon!
+
+A jackie.txt UTF-8 kódolasú forrasállomány soraiban a következő sorrendben
+találja meg az adatokat:
+
+e a versenyzés éve (year), példaul: 1973
+
+e hány versenyen indult (races), példaul: 18
+
+e hány versenyt nyert meg (wins), példaul: 6
+
+o hányszor volt dobogós eredménye (podiums), például: 9
+
+o hányszor indult első helyről (poles), példaul: 4
+
+e hányszor volt övé a leggyorsabb kör (fastests), például: 1
+
+Az állomany első sora a mezőneveket tartalmazza, az adatokat tabulátorral
+választottuk el.
+
+1. Készitsen konzolalkalmazást (projektet) a kovetkező feladatok megoldásához,
+amelynek forraskódjat Jackie néven mentse el!
+
+2. Olvassa be a jackie. txt állomany sorait, és tárolja az adatokat egy olyan összetett
+adatszerkezetben, amely használatával a további feladatok megoldhatók! Ügyeljen
+arra, hogy az állomány első sora az adatok fejlécét tartalmazza!
+
+3. Határozza meg és irja ki a képernyőre a minta szerint, hogy az állomány hány adatsort
+tartalmaz!
+
+4. Határozza meg és irja ki a minta szerint, hogy Jackie Stewart melyik évben indult el a
+legtöbb versenyen! Feltételezheti, hogy nincs a versenyek számában holtverseny.
+
+5. Határozza meg és irja ki a minta szerint, hogy Jackie Stewart számara melyik évtized
+mennyire volt sikeres a megnyert versenyek száma alapján! Az évtized alatt az évek
+tizes csoportját értjük, azaz példaul a 70-es évek alatt az 1970-1979-ig terjedő
+tartományt.
+
+6. Hozzon létre jackie.html néven UTF-8 kódolást szöveges állományt! Az állomány
+szabványos HTMLS formátum( legyen, azzal a kitétellel, hogy a head elem tartalma
+üresen hagyható! Az állományban táblázatos formában jelenjen meg a versenyzés éve,
+a versenyek és a gy6zelmek száma! A táblazat felett első szintű cimsorral jelenjen meg
+Jackie Stewart neve! Oldja meg, hogy a táblazat cellái egy képpont vastag folytonos
+fekete vonallal legyenek keretezve!
+
+3 Forrasok: https://www.driverdb.com/driversfjackie-stewart/
+
+ 
+
+KORLATOZOTT TERJESZTESU
+T 8/9
+
+ 
+

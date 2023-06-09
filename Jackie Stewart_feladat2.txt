@@ -1,0 +1,76 @@
+ 
+
+KORLATOZOTT TERJESZTESU! l 1. sz. példdny
+
+ 
+
+ 
+
+ 
+
+ 
+
+T5421305/D
+
+ 
+
+üresen hagyható! Az állományban táblázatos formában jelenjen meg a versenyzés éve,
+a versenyek és a gy6zelmek száma! A táblazat felett első szintű cimsorral jelenjen meg
+Jackie Stewart neve! Oldja meg, hogy a táblazat cellái egy képpont vastag folytonos
+fekete vonallal legyenek keretezve!
+
+Minta:
+
+3. feladat: 10
+4. feladat: 1967
+5. feladat:
+	70-es évek: 21 megnyert verseny
+	60-as évek: 32 megnyert verseny
+6. feladat: jackie.htm
+
+BB W
+
+|
+|
+|
+
+ 
+
+Minta a jackie.html allomanyra:
+
+Aldoctype htmld
+
+  
+     
+
+so/head
+
+tylestd { border:lpx solid black;}«/st
+
+    
+ 
+
+drctarlle/ds
+dv<rd>26</t
+
+  
+ 
+  
+
+  
+
+1d>1967< /el
+£d>1966
+1d>1965¢/t
+
+ 
+
+19651 811]
+
+ 
+
+ 
+
+KORLATOZOTT TERJESZ
+T 9/9
+
